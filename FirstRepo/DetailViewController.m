@@ -37,6 +37,7 @@
 
 - (void)viewDidLoad
 {
+    NSLog(@"Testig Github project here ");
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     [self configureView];
